@@ -16,7 +16,7 @@ import weka.core.converters.ConverterUtils.DataSink;
 import weka.core.converters.ConverterUtils.DataSource;
 import java.io.File;
 
-public class App {
+public class ArffConverter {
     public String getGreeting() {
         return "Hello World!";
     }

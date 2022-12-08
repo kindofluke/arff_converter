@@ -32,7 +32,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'arff_conversion.App'
+    mainClass = 'arff_conversion.ArffConverter'
 }
 
 tasks.named('test') {
