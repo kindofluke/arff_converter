@@ -47,6 +47,6 @@ public class ArffConverter {
 
        }
 
-        System.out.println(new App().getGreeting());
+        System.out.println(new ArffConverter().getGreeting());
     }
 }
